@@ -41,7 +41,7 @@ class ProductItem extends StatelessWidget {
                 ),
                 child: IconButton(
                   onPressed: () {},
-                  icon: Icon(Icons.favorite_outline),
+                  icon: const Icon(Icons.favorite_outline),
                 ),
               ),
             )
